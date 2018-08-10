@@ -1,0 +1,9 @@
+/* Style the header */
+.header {
+    padding: 25px 25px;
+    background: #555;
+    color: #f1f1f1;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
